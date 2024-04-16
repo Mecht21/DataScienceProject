@@ -8,7 +8,7 @@ Este proyecto está diseñado para aplicar técnicas de web scraping y ciencia d
 - Análisis de Datos: Uso de técnicas estadísticas y de ciencia de datos para explorar y preparar los datos.
 - Modelado Predictivo: Desarrollo de modelos para predecir los resultados de los partidos y determinar potenciales ganadores del mundial.
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - Python: Lenguaje de programación principal.
 - BeautifulSoup: Utilizado para el web scraping.
