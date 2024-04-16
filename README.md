@@ -13,3 +13,9 @@ Este proyecto está diseñado para aplicar técnicas de web scraping y ciencia d
 - Python: Lenguaje de programación principal.
 - BeautifulSoup: Utilizado para el web scraping.
 - Pandas: Manejo y análisis de datos.
+
+## Referencias
+
+Para más detalles sobre cómo se realizó este proyecto, puedes consultar el siguiente video tutorial que fue una referencia esencial en el desarrollo:
+
+- [Tutorial de YouTube](https://www.youtube.com/watch?v=EuZ4gwNNYwg)
